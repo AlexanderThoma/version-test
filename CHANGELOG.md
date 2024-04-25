@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/AlexanderThoma/version-test/compare/v1.0.0...v2.0.0) (2024-04-25)
+
+
+### Features
+
+* add version number to frontend ([30a180e](https://github.com/AlexanderThoma/version-test/commit/30a180eed7c822070ca4bb8c02d318e83688347f))
+
+
+### BREAKING CHANGES
+
+* show fancy version number in frontend
+
 # 1.0.0 (2024-04-25)
 
 
