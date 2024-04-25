@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/AlexanderThoma/version-test/compare/v2.0.0...v2.1.0) (2024-04-25)
+
+
+### Features
+
+* add .env file for version ([d3b6a31](https://github.com/AlexanderThoma/version-test/commit/d3b6a31ea87ccfc98d4cdcb34771b1baa3772214))
+
 # [2.0.0](https://github.com/AlexanderThoma/version-test/compare/v1.0.0...v2.0.0) (2024-04-25)
 
 
